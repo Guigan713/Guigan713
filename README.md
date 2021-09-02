@@ -15,7 +15,7 @@ I am a junior fullstack Web Developer from France
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=plastic" />](https://www.facebook.com/riley.macfadden/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&style=plastic" />](https://twitter.com/Guigan713)
 [<img align="left" alt="instagram" src="https://shields.io/badge/-Instagram-ff69b4?&logo=Instagram&logoColor=white&style=plastic" />](https://www.instagram.com/Guigan713)
-
+[<img align="left" alt="Snapchat" src="https://shields.io/badge/-Snapchat-FFFC00?&logo=Snapchat&logoColor=white&style=plastic" />](https://www.snapchat.com/Guigan713)
 <br>
                                                                                                                                 
 ## Expertise
