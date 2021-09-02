@@ -10,19 +10,13 @@ I am a junior fullstack Web Developer from France
 <br>
 
 ## My social networks
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" />(https://www.linkedin.com/in/guillaume-lequin-500866171/)
-<br>
-<img align="left" alt="stack-overflow" src="https://shields.io/badge/-Stack%20Overflow-F58025?&logo=Stack%20Overflow&logoColor=white&style=plastic" />(https://stackoverflow.com/users/16815620/guillaume-lequin)
-<br>
-<img align="left" alt="slack" src="https://shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white&style=plastic" />
-(https://app.slack.com/client/T6SG2QGG2/C6SG2QKCJ/user_profile/U01GPC2BSF6)
-<br>
-<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=plastic" />(https://www.facebook.com/riley.macfadden/)
-<br>
-<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&style=plastic" />(https://twitter.com/Guigan713)
-<br>
-<img align="left" alt="instagram" src="https://shields.io/badge/-Instagram-ff69b4?&logo=Instagram&logoColor=white&style=plastic" />(https://www.instagram.com/Guigan713)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/guillaume-lequin-500866171/)
+[<img align="left" alt="stack-overflow" src="https://shields.io/badge/-Stack%20Overflow-F58025?&logo=Stack%20Overflow&logoColor=white&style=plastic" />](https://stackoverflow.com/users/16815620/guillaume-lequin)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=plastic" />](https://www.facebook.com/riley.macfadden/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&style=plastic" />](https://twitter.com/Guigan713)
+[<img align="left" alt="instagram" src="https://shields.io/badge/-Instagram-ff69b4?&logo=Instagram&logoColor=white&style=plastic" />](https://www.instagram.com/Guigan713)
 
+<br>
                                                                                                                                 
 ## Expertise
 <img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
