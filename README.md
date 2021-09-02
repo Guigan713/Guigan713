@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I am a fullstack Web Developer from France 
-- 🔭 Working on multiple frontend and backend project using mainly React and Nodejs
-- I also have some good skills on photo editing
+My name is Guillaume Lequin (a.k.a Guigan) 
+I am a junior fullstack Web Developer from France 
+- 🔭 Working on multiple frontend and backend projects using mainly React and Nodejs 
+- I also have some good skills on photo editing as photography is one of my passions
+- Other than that, i am a Sneaker collector and a true passionate about Hiphop culture
+- My different interests gave me the occasion to meet a lot of friends all around the world
+- I am constantly willing to learn and share my knowledge.
 <br>
 
 ## My social networks
