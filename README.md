@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fullstack Web Developer from France :france:
+I am a fullstack Web Developer from France 
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 
 <br>
