@@ -27,7 +27,6 @@ I am a  fullstack Web Developer alumni from France
 <img align="left" alt="MySQL" src="https://shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white&style=plastic" />
 <img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
 <img align="left" alt="Git" src="https://shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=plastic" />
-<img align="left" alt="Visual Studio" src="https://shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white&style=plastic" />
 
 <br>
 
@@ -38,6 +37,7 @@ I am a  fullstack Web Developer alumni from France
 <img align="left" alt="Figma" src="https://shields.io/badge/-Figma-F24E1E?&logo=Figma&logoColor=white&style=plastic" />
 <img align="left" alt="Postman" src="https://shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white&style=plastic" />
 <img align="left" alt="Twilio" src="https://shields.io/badge/-Twilio-F22F46?&logo=Twilio&logoColor=white&style=plastic" />
+<img align="left" alt="Visual Studio" src="https://shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white&style=plastic" />
 
 <br>
 
