@@ -18,7 +18,7 @@ I am a  fullstack Web Developer alumni from France
 [<img align="left" alt="Snapchat" src="https://shields.io/badge/-Snapchat-FFFC00?&logo=Snapchat&logoColor=white&style=plastic" />](https://www.snapchat.com/Guigan713)
 <br>
                                                                                                                                 
-## Expertise
+## langages I use the most
 <img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&style=plastic" />
 <img align="left" alt="HTML" src="https://shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white&style=plastic" />
@@ -31,7 +31,7 @@ I am a  fullstack Web Developer alumni from France
 
 <br>
 
-## Good Skills
+## other softwares or websites i use
 <img align="left" alt="lightroom" src="https://shields.io/badge/-Adobe%20Lightroom-31A8FF?&logo=Adobe%20Lightroom&logoColor=white&style=plastic" />
 <img align="left" alt="Photoshop" src="https://shields.io/badge/-Adobe%20Photoshop-31A8FF?&logo=Adobe%20Photoshop&logoColor=white&style=plastic" />
 <img align="left" alt="Canva" src="https://shields.io/badge/-Canva-00C4CC?&logo=Canva&logoColor=white&style=plastic" />
