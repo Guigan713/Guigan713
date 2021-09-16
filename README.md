@@ -1,29 +1,29 @@
 ### Hi there 👋
 
-My name is Guillaume Lequin (a.k.a Guigan) 
-I am a  fullstack Web Developer alumni from France 
-- 🔭 Learning at Wild Code School mainly Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs and MySQL.
-- Use of Agile methods with SCRUM.
-- Dynamic interfaces creation with REACT JS.
-- Dynamic and static front-end interface creation with HTML5, CSS and Javascript.
-- API and Database creations with MySql and Express.
-- I also have some good skills on photo editing as photography is one of my passions
-- Other than that, i am a Sneaker collector and a true passionate about Hiphop culture
-- My different interests gave me the occasion to meet a lot of friends all around the world
-- I am constantly willing to learn and share my knowledge.
+ nom est Guillaume Lequin (a.k.a Guigan) 
+Je suis un développeur web en formation à la Wild Code School.
+- 🔭 J'apprends différents languages de programmation, surtout Html, Css, Javascript, React, ReactRouteur, Nodejs, ExpressJs et MySQL.
+- Utilisation des méthodes agile notament SCRUM.
+- Création d'interfaces dynamiques avec REACT JS.
+- Création d'interfaces dynamique et statique avec HTML5, CSS et Javascript.
+- Création d'API et bases de données avec MySQL et Node Js.
+- Je me débrouille plutot bien avec un appareil photo car c'est une de mes passions.
+- je collectionne également les Sneakers et je suis égalment un passionné de culture HipHop.
+- Mes différentes passions m'ont permis de rencontrer des personnes partout dans le monde
+- je suis constamment en recherche de nouvelles choese à apprendre.
 <br>
 
 cv React: https://trusting-murdock-bb195c.netlify.app/
 
 <br>
 
-## Projects i was involved in: 
+## Projets auxquels j'ai collaboré: 
 
-Project 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
+Projet 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
 
 <br>
 
-## My social networks
+## Mes Réseaux sociaux
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/guillaume-lequin-500866171/)
 [<img align="left" alt="stack-overflow" src="https://shields.io/badge/-Stack%20Overflow-F58025?&logo=Stack%20Overflow&logoColor=white&style=plastic" />](https://stackoverflow.com/users/16815620/guillaume-lequin)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=plastic" />](https://www.facebook.com/riley.macfadden/)
@@ -32,7 +32,7 @@ Project 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
 [<img align="left" alt="Snapchat" src="https://shields.io/badge/-Snapchat-FFFC00?&logo=Snapchat&logoColor=white&style=plastic" />](https://www.snapchat.com/Guigan713)
 <br>
                                                                                                                                 
-## langages I use the most
+## languages que j'utilise le plus
 <img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&style=plastic" />
 <img align="left" alt="HTML" src="https://shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white&style=plastic" />
@@ -44,7 +44,7 @@ Project 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
 
 <br>
 
-## other softwares or websites i use
+## autres logiciels et sites que j'utilise
 <img align="left" alt="lightroom" src="https://shields.io/badge/-Adobe%20Lightroom-31A8FF?&logo=Adobe%20Lightroom&logoColor=white&style=plastic" />
 <img align="left" alt="Photoshop" src="https://shields.io/badge/-Adobe%20Photoshop-31A8FF?&logo=Adobe%20Photoshop&logoColor=white&style=plastic" />
 <img align="left" alt="Canva" src="https://shields.io/badge/-Canva-00C4CC?&logo=Canva&logoColor=white&style=plastic" />
@@ -55,7 +55,7 @@ Project 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
 
 <br>
 
-## What I want to learn next
+## ce que je veux apprendre par la suite
 <img align="left" alt="Tailwind CSS" src="https://shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=Tailwind%20CSS&logoColor=white&style=plastic" />
 <img align="left" alt="Vue.js" src="https://shields.io/badge/-Vue.js-4FC08D?&logo=Vue.js&logoColor=white&style=plastic" />
 <img align="left" alt="PHP" src="https://shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white&style=plastic" />
