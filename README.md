@@ -1,16 +1,16 @@
 ### Hi there 👋
 
- nom est Guillaume Lequin (a.k.a Guigan) 
-Je suis un développeur web en formation à la Wild Code School.
-- 🔭 J'apprends différents languages de programmation, surtout Html, Css, Javascript, React, ReactRouteur, Nodejs, ExpressJs et MySQL.
-- Utilisation des méthodes agile notament SCRUM.
-- Création d'interfaces dynamiques avec REACT JS.
-- Création d'interfaces dynamique et statique avec HTML5, CSS et Javascript.
-- Création d'API et bases de données avec MySQL et Node Js.
-- Je me débrouille plutot bien avec un appareil photo car c'est une de mes passions.
-- je collectionne également les Sneakers et je suis égalment un passionné de culture HipHop.
-- Mes différentes passions m'ont permis de rencontrer des personnes partout dans le monde
-- je suis constamment en recherche de nouvelles choese à apprendre.
+ Mon nom est Guillaume Lequin (a.k.a Guigan) 
+ Je suis un développeur web en formation à la Wild Code School.
+  - 🔭 J'apprends différents languages de programmation, surtout Html, Css, Javascript, React, ReactRouteur, Nodejs, ExpressJs et MySQL.
+  - Utilisation des méthodes agile notament SCRUM.
+  - Création d'interfaces dynamiques avec REACT JS.
+  - Création d'interfaces dynamique et statique avec HTML5, CSS et Javascript.
+  - Création d'API et bases de données avec MySQL et Node Js.
+  - Je me débrouille plutot bien avec un appareil photo car c'est une de mes passions.
+  - je collectionne également les Sneakers et je suis égalment un passionné de culture HipHop.
+  - Mes différentes passions m'ont permis de rencontrer des personnes partout dans le monde
+  - je suis constamment en recherche de nouvelles choese à apprendre.
 <br>
 
 cv React: https://trusting-murdock-bb195c.netlify.app/
