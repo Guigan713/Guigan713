@@ -17,6 +17,12 @@ cv React: https://trusting-murdock-bb195c.netlify.app/
 
 <br>
 
+## Projects i was involved in: 
+
+Project 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
+
+<br>
+
 ## My social networks
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/guillaume-lequin-500866171/)
 [<img align="left" alt="stack-overflow" src="https://shields.io/badge/-Stack%20Overflow-F58025?&logo=Stack%20Overflow&logoColor=white&style=plastic" />](https://stackoverflow.com/users/16815620/guillaume-lequin)
