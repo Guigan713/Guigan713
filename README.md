@@ -2,7 +2,11 @@
 
 My name is Guillaume Lequin (a.k.a Guigan) 
 I am a  fullstack Web Developer alumni from France 
-- 🔭 Learning at Wild Code School mainly React and Nodejs 
+- 🔭 Learning at Wild Code School mainly Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs and MySQL.
+- Use of Agile methods with SCRUM.
+- Dynamic interfaces creation with REACT JS.
+- Dynamic and static front-end interface creation with HTML5, CSS and Javascript.
+- API and Database creations with MySql and Express.
 - I also have some good skills on photo editing as photography is one of my passions
 - Other than that, i am a Sneaker collector and a true passionate about Hiphop culture
 - My different interests gave me the occasion to meet a lot of friends all around the world
