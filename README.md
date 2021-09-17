@@ -7,10 +7,13 @@
   - Création d'interfaces dynamiques avec REACT JS.
   - Création d'interfaces dynamique et statique avec HTML5, CSS et Javascript.
   - Création d'API et bases de données avec MySQL et Node Js.
-  - Je me débrouille plutot bien avec un appareil photo car c'est une de mes passions.
-  - je collectionne également les Sneakers et je suis égalment un passionné de culture HipHop.
-  - Mes différentes passions m'ont permis de rencontrer des personnes partout dans le monde
-  - je suis constamment en recherche de nouvelles choese à apprendre.
+  - Utiliation de Figma et Excalidraw pour les wireframes.
+  - je suis constamment en recherche de nouvelles choses à apprendre.
+
+<br>
+
+   Je me débrouille plutot bien avec un appareil photo, je collectionne également les Sneakers et je suis un passionné de culture HipHop. Mes différentes passions m'ont permis de rencontrer des personnes partout dans le monde. 
+  
 <br>
 
 cv React: https://trusting-murdock-bb195c.netlify.app/
