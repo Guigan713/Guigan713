@@ -23,6 +23,10 @@ cv React: https://trusting-murdock-bb195c.netlify.app/
 ## Projets auxquels j'ai collaboré: 
 
 Projet 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
+<br>
+Game Jam : "ChickenNuggets" https://simmer.io/@DanForstesque/chicken-nuggets
+<br>
+Projet 2: "Wildify" 
 
 <br>
 
@@ -45,6 +49,7 @@ Projet 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
 <img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
 <img align="left" alt="Git" src="https://shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=plastic" />
 <img align="left" alt="Express" src="https://shields.io/badge/-Express-000000?&logo=Express&logoColor=white&style=plastic" />
+<img align="left" alt="C#" src="https://shields.io/badge/-C%20Sharp-239120?&logo=C%20Sharp&logoColor=white&style=plastic" />
 
 <br>
 
@@ -56,6 +61,8 @@ Projet 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
 <img align="left" alt="Postman" src="https://shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white&style=plastic" />
 <img align="left" alt="Twilio" src="https://shields.io/badge/-Twilio-F22F46?&logo=Twilio&logoColor=white&style=plastic" />
 <img align="left" alt="Visual Studio" src="https://shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white&style=plastic" />
+<img align="left" alt="Unity" src="https://shields.io/badge/-Unity-000000?&logo=Unity&logoColor=white&style=plastic" />
+
 
 <br>
 
