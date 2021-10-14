@@ -59,7 +59,7 @@ Projet 2: "Wildify"
 <img align="left" alt="Canva" src="https://shields.io/badge/-Canva-00C4CC?&logo=Canva&logoColor=white&style=plastic" />
 <img align="left" alt="Figma" src="https://shields.io/badge/-Figma-F24E1E?&logo=Figma&logoColor=white&style=plastic" />
 <img align="left" alt="Postman" src="https://shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white&style=plastic" />
-<img align="left" alt="Twilio" src="https://shields.io/badge/-Twilio-F22F46?&logo=Twilio&logoColor=white&style=plastic" />
+<img align="left" alt="Trello" src="https://shields.io/badge/-Trello-F22F46?&logo=Trello&logoColor=white&style=plastic" />
 <img align="left" alt="Visual Studio" src="https://shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white&style=plastic" />
 <img align="left" alt="Unity" src="https://shields.io/badge/-Unity-000000?&logo=Unity&logoColor=white&style=plastic" />
 
