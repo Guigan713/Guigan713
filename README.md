@@ -17,6 +17,7 @@
 <br>
 
 cv React: https://trusting-murdock-bb195c.netlify.app/
+<br>
 Portfolio: https://guillaumelequin.netlify.app
 
 <br>
