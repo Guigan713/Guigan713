@@ -16,7 +16,7 @@
   
 <br>
 
-cv React: https://trusting-murdock-bb195c.netlify.app/
+cv React: https://guillaume-cv-react.netlify.app
 <br>
 Portfolio: https://guillaumelequin.netlify.app
 
