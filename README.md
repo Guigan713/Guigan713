@@ -28,7 +28,7 @@ Projet 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
 <br>
 Game Jam : "ChickenNuggets" https://simmer.io/@DanForstesque/chicken-nuggets
 <br>
-Projet 2: "Wildify" 
+Projet 2: "Wildify" https://wildify.netlify.app/
 
 <br>
 
