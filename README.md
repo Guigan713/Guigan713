@@ -1,8 +1,8 @@
 ### Hi there 👋
 
  Mon nom est Guillaume Lequin (a.k.a Guigan) 
- Je suis un développeur web en formation à la Wild Code School.
-  - 🔭 J'apprends différents languages de programmation, surtout Html, Css, Javascript, React, ReactRouteur, Nodejs, ExpressJs et MySQL.
+ Je suis un développeur web Junior sortant récement de formation à la Wild Code School.
+  - 🔭 J'ai appris différents languages de programmation, surtout Html, Css, Javascript, React, ReactRouteur, Nodejs, ExpressJs et MySQL.
   - Utilisation des méthodes agile notament SCRUM.
   - Création d'interfaces dynamiques avec REACT JS.
   - Création d'interfaces dynamique et statique avec HTML5, CSS et Javascript.
@@ -39,8 +39,11 @@ Projet 2: "Wildify" https://wildify.netlify.app/
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&style=plastic" />](https://twitter.com/Guigan713)
 [<img align="left" alt="instagram" src="https://shields.io/badge/-Instagram-ff69b4?&logo=Instagram&logoColor=white&style=plastic" />](https://www.instagram.com/Guigan713)
 [<img align="left" alt="Snapchat" src="https://shields.io/badge/-Snapchat-FFFC00?&logo=Snapchat&logoColor=white&style=plastic" />](https://www.snapchat.com/Guigan713)
+
+
 <br>
-                                                                                                                                
+
+
 ## languages que j'utilise le plus
 <img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&style=plastic" />
@@ -51,9 +54,20 @@ Projet 2: "Wildify" https://wildify.netlify.app/
 <img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
 <img align="left" alt="Git" src="https://shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=plastic" />
 <img align="left" alt="Express" src="https://shields.io/badge/-Express-000000?&logo=Express&logoColor=white&style=plastic" />
-<img align="left" alt="C#" src="https://shields.io/badge/-C%20Sharp-239120?&logo=C%20Sharp&logoColor=white&style=plastic" />
+
 
 <br>
+
+
+## languages que j'utilise de temps à autres
+<img align="left" alt="C#" src="https://shields.io/badge/-C%20Sharp-239120?&logo=C%20Sharp&logoColor=white&style=plastic" />
+<img align="left" alt="Python" src="https://shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=plastic" />
+<img align="left" alt="Terraform" src="https://shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white&style=plastic" />
+<img align="left" alt="PHP" src="https://shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white&style=plastic" />
+
+
+<br>
+
 
 ## autres logiciels et sites que j'utilise
 <img align="left" alt="lightroom" src="https://shields.io/badge/-Adobe%20Lightroom-31A8FF?&logo=Adobe%20Lightroom&logoColor=white&style=plastic" />
@@ -68,10 +82,10 @@ Projet 2: "Wildify" https://wildify.netlify.app/
 
 <br>
 
+
 ## ce que je veux apprendre par la suite
 <img align="left" alt="Tailwind CSS" src="https://shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=Tailwind%20CSS&logoColor=white&style=plastic" />
 <img align="left" alt="Vue.js" src="https://shields.io/badge/-Vue.js-4FC08D?&logo=Vue.js&logoColor=white&style=plastic" />
-<img align="left" alt="PHP" src="https://shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white&style=plastic" />
-<img align="left" alt="Python" src="https://shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=plastic" />
 <img align="left" alt="Next.js" src="https://shields.io/badge/-Next.js-000000?&logo=Next.js&logoColor=white&style=plastic" />
 <img align="left" alt="Angular" src="https://shields.io/badge/-Angular-DD0031?&logo=Angular&logoColor=white&style=plastic" />
+<img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
