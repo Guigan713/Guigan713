@@ -24,11 +24,11 @@ Portfolio: https://guillaumelequin.netlify.app
 
 ## My Works I have collaborated in: 
 
-Projet 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
+Project 1: "Restodyssey" https://guigan713.github.io/restOdyssey/
 <br>
 Game Jam : "ChickenNuggets" https://simmer.io/@DanForstesque/chicken-nuggets
 <br>
-Projet 2: "Wildify" https://wildify.netlify.app/
+Project 2: "Wildify" https://wildify.netlify.app/
 
 <br>
 
