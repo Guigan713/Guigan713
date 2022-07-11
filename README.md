@@ -51,8 +51,6 @@ Project 2: "Wildify" https://wildify.netlify.app/
 <img align="left" alt="CSS" src="https://shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white&style=plastic" />
 <img align="left" alt="Javascript" src="https://shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white&style=plastic" />
 <img align="left" alt="MySQL" src="https://shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white&style=plastic" />
-<img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
-<img align="left" alt="Git" src="https://shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=plastic" />
 <img align="left" alt="Express" src="https://shields.io/badge/-Express-000000?&logo=Express&logoColor=white&style=plastic" />
 
 
@@ -60,17 +58,17 @@ Project 2: "Wildify" https://wildify.netlify.app/
 
 
 ## languages I use sometimes
-<img align="left" alt="C#" src="https://shields.io/badge/-C%20Sharp-239120?&logo=C%20Sharp&logoColor=white&style=plastic" />
 <img align="left" alt="Python" src="https://shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=plastic" />
 <img align="left" alt="Terraform" src="https://shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white&style=plastic" />
 <img align="left" alt="PHP" src="https://shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white&style=plastic" />
 <img align="left" alt="Tailwind CSS" src="https://shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=Tailwind%20CSS&logoColor=white&style=plastic" />
+<img align="left" alt="Unity" src="https://shields.io/badge/-Unity-000000?&logo=Unity&logoColor=white&style=plastic" />
 
 
 <br>
 
 
-## other softwares or websites I use 
+## other softwares or tools I use 
 <img align="left" alt="lightroom" src="https://shields.io/badge/-Adobe%20Lightroom-31A8FF?&logo=Adobe%20Lightroom&logoColor=white&style=plastic" />
 <img align="left" alt="Photoshop" src="https://shields.io/badge/-Adobe%20Photoshop-31A8FF?&logo=Adobe%20Photoshop&logoColor=white&style=plastic" />
 <img align="left" alt="Canva" src="https://shields.io/badge/-Canva-00C4CC?&logo=Canva&logoColor=white&style=plastic" />
@@ -78,7 +76,8 @@ Project 2: "Wildify" https://wildify.netlify.app/
 <img align="left" alt="Postman" src="https://shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white&style=plastic" />
 <img align="left" alt="Trello" src="https://shields.io/badge/-Trello-F22F46?&logo=Trello&logoColor=white&style=plastic" />
 <img align="left" alt="Visual Studio" src="https://shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white&style=plastic" />
-<img align="left" alt="Unity" src="https://shields.io/badge/-Unity-000000?&logo=Unity&logoColor=white&style=plastic" />
+<img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
+<img align="left" alt="Git" src="https://shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=plastic" />
 
 
 <br>
