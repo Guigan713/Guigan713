@@ -35,6 +35,8 @@ Project 2: "Wildify" https://wildify.netlify.app/
 ## My personal works:
 
 dashboard: https://dashboard-guigan.netlify.app/
+hulu clone: https://hulu-2-coral-three.vercel.app/
+cv react: https://guillaume-cv-react.netlify.app
 
 <br>
 
