@@ -32,6 +32,12 @@ Project 2: "Wildify" https://wildify.netlify.app/
 
 <br>
 
+## My personal works:
+
+dashboard: https://dashboard-guigan.netlify.app/
+
+<br>
+
 ## My Social Networks
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/guillaume-lequin-500866171/)
 [<img align="left" alt="stack-overflow" src="https://shields.io/badge/-Stack%20Overflow-F58025?&logo=Stack%20Overflow&logoColor=white&style=plastic" />](https://stackoverflow.com/users/16815620/guillaume-lequin)
