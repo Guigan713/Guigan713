@@ -1,18 +1,20 @@
 ### Hi there 👋
 
  My name is Guillaume Lequin (a.k.a Guigan) 
- I am a Junior Web Developper fresh out the Wild Code School.
-  - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript, React, ReactRouter, Node.js, Express.Js & MySQL.
+ I am a Junior Web Developper fresh out the Wild Code School and currently in a training with AJC Formation.
+  - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript (and frameworks: React, ReactRouter, Node.js, Express.Js) & MySQL.
   - Use of Agile Methods like SCRUM.
   - Dynamic interfaces creation with REACT JS.
   - Static & Dynamic interfaces creation with HTML5, CSS & Javascript.
   - API & Databases creation with MySQL & Node Js.
   - Use of Figma & Excaliraw for wireframes.
-  - I am always learning new languages.
+  - I also had the occasion to discover DevOps and learnt to use a IAC (Terraform), Google Cloud Platform and Linux/Debian.
+  - I am currently learning C# and the .net environement.
+  - I did several personal projects as a training. I used different technologies like React Native, Next js, mongo DB, TypeScript... 
 
 <br>
 
-   I have good skills with a Camera, I also collect Sneakers & I am passionate about HipHop Culture.My different passions gave me the occasion to meet people all around the world. 
+   I have good skills with a Camera, I also collect Sneakers & I am passionate about HipHop Culture. My different passions gave me the occasion to meet people all around the world. 
   
 <br>
 
@@ -73,6 +75,7 @@ cv react: https://guillaume-cv-react.netlify.app
 <img align="left" alt="PHP" src="https://shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white&style=plastic" />
 <img align="left" alt="Tailwind CSS" src="https://shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=Tailwind%20CSS&logoColor=white&style=plastic" />
 <img align="left" alt="Unity" src="https://shields.io/badge/-Unity-000000?&logo=Unity&logoColor=white&style=plastic" />
+<img align="left" alt="C#" src="https://shields.io/badge/-CSharp-239120?&logo=CSharp&logoColor=white&style=plastic" />
 
 
 <br>
