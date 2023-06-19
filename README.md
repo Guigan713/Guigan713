@@ -107,4 +107,4 @@ cv react: https://guillaume-cv-react.netlify.app
 <img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
 <img align="left" alt="Kuberetes" src="https://shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white&style=plastic" />
 <img align="left" alt="Docker" src="https://shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=plastic" />
-<img align="left" alt="PowerShell" src="https://shields.io/badge/-Power%20Shell-5391FE?&logo=Power%20Shell&logoColor=white&style=plastic" />
+<img align="left" alt="PowerShell" src="https://shields.io/badge/-PowerShell-5391FE?&logo=PowerShell&logoColor=white&style=plastic" />
