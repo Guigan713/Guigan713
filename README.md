@@ -2,7 +2,7 @@
 
  My name is Guillaume Lequin (a.k.a Guigan) 
  I am a Junior Web Developper fresh out the Wild Code School and currently employed by Neos-Sdi as a Developper.
-  - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript (and frameworks: React, Node.js, Express.Js) & MySQL.
+  - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript , Node.js (and frameworks: React, Express Js)& MySQL.
   - Use of Agile Methods like SCRUM.
   - Dynamic interfaces creation with REACT JS.
   - Static & Dynamic interfaces creation with HTML5, CSS & Javascript.
