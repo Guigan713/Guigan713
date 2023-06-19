@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  My name is Guillaume Lequin (a.k.a Guigan) 
- I am a Junior Web Developper fresh out the Wild Code School and currently in a training with AJC Formation.
+ I am a Junior Web Developper fresh out the Wild Code School and currently employed by Neos-Sdi as a Developper.
   - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript (and frameworks: React, Node.js, Express.Js) & MySQL.
   - Use of Agile Methods like SCRUM.
   - Dynamic interfaces creation with REACT JS.
@@ -9,8 +9,9 @@
   - API & Databases creation with MySQL & Node Js.
   - Use of Figma & Excaliraw for wireframes.
   - I also had the occasion to discover DevOps and learnt to use a IAC (Terraform), Google Cloud Platform and Linux/Debian.
-  - I am currently learning C# and the .net environement.
-  - I did several personal projects as a training. I used different technologies like React Native, Next js, mongo DB, TypeScript... 
+  - I have learnt C# and the .net environement through a training with AJC Formation.
+  - I did several personal projects as a training. I used different technologies like React Native, Next js, mongo DB, TypeScript...
+  - I actually work as a devellopper using Power Platform technologies (Power Apps, Power Automate, Sharepoint, Power BI, Dataverse)
 
 <br>
 
@@ -57,6 +58,7 @@ cv react: https://guillaume-cv-react.netlify.app
 
 
 ## My most used Languages 
+<img align="left" alt="PowerApps" src="https://shields.io/badge/-Power%20Apps-742774?&logo=Power%20Apps&logoColor=white&style=plastic" />
 <img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&style=plastic" />
 <img align="left" alt="HTML" src="https://shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white&style=plastic" />
@@ -97,7 +99,5 @@ cv react: https://guillaume-cv-react.netlify.app
 
 
 ## What i want to learn next
-<img align="left" alt="Vue.js" src="https://shields.io/badge/-Vue.js-4FC08D?&logo=Vue.js&logoColor=white&style=plastic" />
-<img align="left" alt="Next.js" src="https://shields.io/badge/-Next.js-000000?&logo=Next.js&logoColor=white&style=plastic" />
-<img align="left" alt="Angular" src="https://shields.io/badge/-Angular-DD0031?&logo=Angular&logoColor=white&style=plastic" />
 <img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
+<img align="left" alt="Kuberetes" src="https://shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white&style=plastic" />
