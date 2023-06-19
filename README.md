@@ -57,7 +57,7 @@ cv react: https://guillaume-cv-react.netlify.app
 <br>
 
 
-## My most used Languages 
+## My most used Languages & Frameworks
 <img align="left" alt="PowerApps" src="https://shields.io/badge/-Power%20Apps-742774?&logo=Power%20Apps&logoColor=white&style=plastic" />
 <img align="left" alt="PowerAutomate" src="https://shields.io/badge/-Power%20Automate-0066FF?&logo=Power%20Automate&logoColor=white&style=plastic" />
 <img align="left" alt="PowerFx" src="https://shields.io/badge/-Power%20Fx-7F2157?&logo=Power%20Fx&logoColor=white&style=plastic" />
@@ -67,16 +67,18 @@ cv react: https://guillaume-cv-react.netlify.app
 <img align="left" alt="CSS" src="https://shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white&style=plastic" />
 <img align="left" alt="Javascript" src="https://shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white&style=plastic" />
 <img align="left" alt="MySQL" src="https://shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white&style=plastic" />
+<img align="left" alt="GNU Bash" src="https://shields.io/badge/-GNU%20Bash-4EAA25?&logo=GNU%20Bash&logoColor=white&style=plastic" />
 
 
 <br>
 
 
-## languages I use sometimes
+## languages & Frameworks I use sometimes
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&style=plastic" />
 <img align="left" alt="Express" src="https://shields.io/badge/-Express-000000?&logo=Express&logoColor=white&style=plastic" />
 <img align="left" alt="Python" src="https://shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=plastic" />
 <img align="left" alt="Terraform" src="https://shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white&style=plastic" />
+<img align="left" alt="Google Cloud" src="https://shields.io/badge/-Google%20Cloud-4285F4?&logo=Google%20Cloud&logoColor=white&style=plastic" />
 <img align="left" alt="PHP" src="https://shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white&style=plastic" />
 <img align="left" alt="Tailwind CSS" src="https://shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=Tailwind%20CSS&logoColor=white&style=plastic" />
 <img align="left" alt="Unity" src="https://shields.io/badge/-Unity-000000?&logo=Unity&logoColor=white&style=plastic" />
@@ -89,13 +91,13 @@ cv react: https://guillaume-cv-react.netlify.app
 ## other softwares or tools I use 
 <img align="left" alt="lightroom" src="https://shields.io/badge/-Adobe%20Lightroom-31A8FF?&logo=Adobe%20Lightroom&logoColor=white&style=plastic" />
 <img align="left" alt="Photoshop" src="https://shields.io/badge/-Adobe%20Photoshop-31A8FF?&logo=Adobe%20Photoshop&logoColor=white&style=plastic" />
-<img align="left" alt="Canva" src="https://shields.io/badge/-Canva-00C4CC?&logo=Canva&logoColor=white&style=plastic" />
-<img align="left" alt="Figma" src="https://shields.io/badge/-Figma-F24E1E?&logo=Figma&logoColor=white&style=plastic" />
 <img align="left" alt="Postman" src="https://shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white&style=plastic" />
-<img align="left" alt="Trello" src="https://shields.io/badge/-Trello-F22F46?&logo=Trello&logoColor=white&style=plastic" />
-<img align="left" alt="Visual Studio" src="https://shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white&style=plastic" />
+<img align="left" alt="Visual Studio Code" src="https://shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white&style=plastic" />
 <img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
 <img align="left" alt="Git" src="https://shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=plastic" />
+<img align="left" alt="Gulp" src="https://shields.io/badge/-Gulp-CF4647?&logo=Gulp&logoColor=white&style=plastic" />
+<img align="left" alt="Linux" src="https://shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=white&style=plastic" />
+<img align="left" alt="Raspberry Pi" src="https://shields.io/badge/-Raspberry%20Pi-A22846?&logo=Raspberry%20Pi&logoColor=white&style=plastic" />
 
 
 <br>
@@ -105,3 +107,4 @@ cv react: https://guillaume-cv-react.netlify.app
 <img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
 <img align="left" alt="Kuberetes" src="https://shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white&style=plastic" />
 <img align="left" alt="Docker" src="https://shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=plastic" />
+<img align="left" alt="PowerShell" src="https://shields.io/badge/-Power%20Shell-5391FE?&logo=Power%20Shell&logoColor=white&style=plastic" />
