@@ -78,12 +78,7 @@ cv react: https://guillaume-cv-react.netlify.app
 <img align="left" alt="Express" src="https://shields.io/badge/-Express-000000?&logo=Express&logoColor=white&style=plastic" />
 <img align="left" alt="Python" src="https://shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=plastic" />
 <img align="left" alt="Terraform" src="https://shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white&style=plastic" />
-<img align="left" alt="Google Cloud" src="https://shields.io/badge/-Google%20Cloud-4285F4?&logo=Google%20Cloud&logoColor=white&style=plastic" />
-<img align="left" alt="PHP" src="https://shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white&style=plastic" />
 <img align="left" alt="Tailwind CSS" src="https://shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=Tailwind%20CSS&logoColor=white&style=plastic" />
-<img align="left" alt="Unity" src="https://shields.io/badge/-Unity-000000?&logo=Unity&logoColor=white&style=plastic" />
-<img align="left" alt="C#" src="https://shields.io/badge/-CSharp-239120?&logo=CSharp&logoColor=white&style=plastic" />
-<img align="left" alt=".NET" src="https://shields.io/badge/-.NET-512BD4?&logo=.NET&logoColor=white&style=plastic" />
 
 <br>
 
@@ -107,4 +102,3 @@ cv react: https://guillaume-cv-react.netlify.app
 <img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
 <img align="left" alt="Kuberetes" src="https://shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white&style=plastic" />
 <img align="left" alt="Docker" src="https://shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=plastic" />
-<img align="left" alt="PowerShell" src="https://shields.io/badge/-PowerShell-5391FE?&logo=PowerShell&logoColor=white&style=plastic" />
