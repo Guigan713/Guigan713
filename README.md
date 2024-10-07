@@ -1,7 +1,8 @@
 ### Hi there 👋
 
  My name is Guillaume Lequin (a.k.a Guigan) 
- I am a Junior Web Developper fresh out the Wild Code School and currently employed by Neos-Sdi as a Developper.
+ I am an alumni at O'clock school, currently studying DevOps.
+ I previously studied Web Developement and worked 2 years as a Power Platform Developper
   - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript , Node.js (and frameworks: React, Express Js)& MySQL.
   - Use of Agile Methods like SCRUM.
   - Dynamic interfaces creation with REACT JS.
@@ -11,7 +12,7 @@
   - I also had the occasion to discover DevOps and learnt to use a IAC (Terraform), Google Cloud Platform and Linux/Debian.
   - I have learnt C# and the .net environement through a training with AJC Formation.
   - I did several personal projects as a training. I used different technologies like React Native, Next js, mongo DB, TypeScript...
-  - I actually work as a devellopper using Power Platform technologies (Power Apps, Power Automate, Sharepoint, Power BI, Dataverse)
+  - I worked as a developper using Power Platform technologies (Power Apps, Power Automate, Sharepoint, Power BI, Dataverse)
 
 <br>
 
@@ -61,7 +62,6 @@ cv react: https://guillaume-cv-react.netlify.app
 <img align="left" alt="PowerApps" src="https://shields.io/badge/-Power%20Apps-742774?&logo=Power%20Apps&logoColor=white&style=plastic" />
 <img align="left" alt="PowerAutomate" src="https://shields.io/badge/-Power%20Automate-0066FF?&logo=Power%20Automate&logoColor=white&style=plastic" />
 <img align="left" alt="PowerFx" src="https://shields.io/badge/-Power%20Fx-7F2157?&logo=Power%20Fx&logoColor=white&style=plastic" />
-<img align="left" alt="PowerBi" src="https://shields.io/badge/-Power%20Bi-F2C811?&logo=Power%20Apps&logoColor=white&style=plastic" />
 <img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
 <img align="left" alt="HTML" src="https://shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white&style=plastic" />
 <img align="left" alt="CSS" src="https://shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white&style=plastic" />
