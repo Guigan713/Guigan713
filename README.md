@@ -83,7 +83,7 @@ cv react: https://guillaume-cv-react.netlify.app
 <br>
 
 
-## other softwares or tools I use 
+## other tools I use 
 <img align="left" alt="lightroom" src="https://shields.io/badge/-Adobe%20Lightroom-31A8FF?&logo=Adobe%20Lightroom&logoColor=white&style=plastic" />
 <img align="left" alt="Photoshop" src="https://shields.io/badge/-Adobe%20Photoshop-31A8FF?&logo=Adobe%20Photoshop&logoColor=white&style=plastic" />
 <img align="left" alt="Postman" src="https://shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white&style=plastic" />
