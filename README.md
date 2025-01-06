@@ -92,6 +92,7 @@ cv react: https://guillaume-cv-react.netlify.app
 <img align="left" alt="Visual Studio Code" src="https://shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white&style=plastic" />
 <img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
 <img align="left" alt="Git" src="https://shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=plastic" />
+<img align="left" alt="Docker" src="https://shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=plastic" />
 <!-- <img align="left" alt="Gulp" src="https://shields.io/badge/-Gulp-CF4647?&logo=Gulp&logoColor=white&style=plastic" /> -->
 <!-- <img align="left" alt="Linux" src="https://shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=white&style=plastic" /> -->
 <!-- <img align="left" alt="Raspberry Pi" src="https://shields.io/badge/-Raspberry%20Pi-A22846?&logo=Raspberry%20Pi&logoColor=white&style=plastic" /> -->
