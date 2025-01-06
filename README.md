@@ -62,23 +62,24 @@ cv react: https://guillaume-cv-react.netlify.app
 <!--<img align="left" alt="PowerApps" src="https://shields.io/badge/-Power%20Apps-742774?&logo=Power%20Apps&logoColor=white&style=plastic" /> -->
 <!-- <img align="left" alt="PowerAutomate" src="https://shields.io/badge/-Power%20Automate-0066FF?&logo=Power%20Automate&logoColor=white&style=plastic" />
 <img align="left" alt="PowerFx" src="https://shields.io/badge/-Power%20Fx-7F2157?&logo=Power%20Fx&logoColor=white&style=plastic" /> -->
-<img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
 <img align="left" alt="HTML" src="https://shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white&style=plastic" />
 <img align="left" alt="CSS" src="https://shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white&style=plastic" />
 <img align="left" alt="Javascript" src="https://shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white&style=plastic" />
 <img align="left" alt="MySQL" src="https://shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white&style=plastic" />
 <img align="left" alt="GNU Bash" src="https://shields.io/badge/-GNU%20Bash-4EAA25?&logo=GNU%20Bash&logoColor=white&style=plastic" />
 <img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
+<img align="left" alt="Terraform" src="https://shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white&style=plastic" />
 
 
 <br>
 
 
 ## languages & Frameworks I use sometimes
+<img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&style=plastic" />
 <img align="left" alt="Express" src="https://shields.io/badge/-Express-000000?&logo=Express&logoColor=white&style=plastic" />
 <img align="left" alt="Python" src="https://shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=plastic" />
-<img align="left" alt="Terraform" src="https://shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white&style=plastic" />
+
 <img align="left" alt="Tailwind CSS" src="https://shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=Tailwind%20CSS&logoColor=white&style=plastic" />
 
 <br>
