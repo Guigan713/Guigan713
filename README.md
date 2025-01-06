@@ -103,4 +103,3 @@ cv react: https://guillaume-cv-react.netlify.app
 
 ## What i want to learn next
 <img align="left" alt="Kuberetes" src="https://shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white&style=plastic" />
-<img align="left" alt="Docker" src="https://shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=plastic" />
