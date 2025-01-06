@@ -59,15 +59,16 @@ cv react: https://guillaume-cv-react.netlify.app
 
 
 ## My most used Languages & Frameworks
-<img align="left" alt="PowerApps" src="https://shields.io/badge/-Power%20Apps-742774?&logo=Power%20Apps&logoColor=white&style=plastic" />
+[<img align="left" alt="PowerApps" src="https://shields.io/badge/-Power%20Apps-742774?&logo=Power%20Apps&logoColor=white&style=plastic" />
 <img align="left" alt="PowerAutomate" src="https://shields.io/badge/-Power%20Automate-0066FF?&logo=Power%20Automate&logoColor=white&style=plastic" />
 <img align="left" alt="PowerFx" src="https://shields.io/badge/-Power%20Fx-7F2157?&logo=Power%20Fx&logoColor=white&style=plastic" />
-<img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />
+<img align="left" alt="react" src="https://shields.io/badge/-React-61DAFB?&logo=React&logoColor=white&style=plastic" />](url)
 <img align="left" alt="HTML" src="https://shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white&style=plastic" />
 <img align="left" alt="CSS" src="https://shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white&style=plastic" />
 <img align="left" alt="Javascript" src="https://shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white&style=plastic" />
 <img align="left" alt="MySQL" src="https://shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white&style=plastic" />
 <img align="left" alt="GNU Bash" src="https://shields.io/badge/-GNU%20Bash-4EAA25?&logo=GNU%20Bash&logoColor=white&style=plastic" />
+<img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
 
 
 <br>
@@ -99,6 +100,5 @@ cv react: https://guillaume-cv-react.netlify.app
 
 
 ## What i want to learn next
-<img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
 <img align="left" alt="Kuberetes" src="https://shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white&style=plastic" />
 <img align="left" alt="Docker" src="https://shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=plastic" />
