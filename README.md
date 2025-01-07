@@ -3,7 +3,7 @@
  My name is Guillaume Lequin (a.k.a Guigan) 
  I am an alumni at O'clock school, currently studying DevOps.
  I previously studied Web Developement and worked 2 years as a Power Platform Developper
-  - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript , Node.js (and frameworks: React, Express Js)& MySQL.
+  - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript , Node.js (and frameworks: React, Express Js) & MySQL.
   - Use of Agile Methods like SCRUM.
   - Dynamic interfaces creation with REACT JS.
   - Static & Dynamic interfaces creation with HTML5, CSS & Javascript.
