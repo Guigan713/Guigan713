@@ -70,7 +70,7 @@ cv react: https://guillaume-cv-react.netlify.app
 <br>
 
 
-## Programming Langages & Frameworks
+## Programming Langages & Frameworks i use
 <!--<img align="left" alt="PowerApps" src="https://shields.io/badge/-Power%20Apps-742774?&logo=Power%20Apps&logoColor=white&style=plastic" /> -->
 <!-- <img align="left" alt="PowerAutomate" src="https://shields.io/badge/-Power%20Automate-0066FF?&logo=Power%20Automate&logoColor=white&style=plastic" />
 <img align="left" alt="PowerFx" src="https://shields.io/badge/-Power%20Fx-7F2157?&logo=Power%20Fx&logoColor=white&style=plastic" /> -->
