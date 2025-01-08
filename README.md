@@ -2,6 +2,8 @@
 
  My name is Guillaume Lequin (a.k.a Guigan) 
  I am an alumni at O'clock school, currently studying DevOps.
+
+ 
  I previously studied Web Developement and worked 2 years as a Power Platform Developper:
   - 🔭 I have Learnt different programming languages, mainly Html, Css, Javascript , Node.js (and frameworks: React, Express Js) & MySQL.
   - Use of Agile Methods like SCRUM.
@@ -12,6 +14,8 @@
   - I have learnt C# and the .net environement through a training with AJC Formation.
   - I did several personal projects as a training. I used different technologies like React Native, Next js, mongo DB, TypeScript...
   - Use of Power Platform technologies (Power Apps, Power Automate, Sharepoint, Power BI, Dataverse)
+
+
 Actually, I have the chance to study DevOps:
   - Containerization with Docker
   - Automation with Ansible
