@@ -90,7 +90,7 @@ cv react: https://guillaume-cv-react.netlify.app
 ## Tools i use the most
 <img align="left" alt="Ansible" src="https://shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white&style=plastic" />
 <img align="left" alt="Terraform" src="https://shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white&style=plastic" />
-<img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
+<!-- <img align="left" alt="npm" src="https://shields.io/badge/-npm-CB3837?&logo=npm&logoColor=white&style=plastic" /> -->
 <img align="left" alt="Git" src="https://shields.io/badge/-Git-F05032?&logo=Git&logoColor=white&style=plastic" />
 <img align="left" alt="Docker" src="https://shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white&style=plastic" />
 <img align="left" alt="GNU Bash" src="https://shields.io/badge/-GNU%20Bash-4EAA25?&logo=GNU%20Bash&logoColor=white&style=plastic" />
