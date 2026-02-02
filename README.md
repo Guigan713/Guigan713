@@ -1,5 +1,88 @@
-# 💫 About Me:
-My name is Guillaume Lequin (a.k.a Guigan) <br><br>I am a Junior DevOps engineer, fresh out of O'Clock School<br><br>I studied:<br>  - Containerization with Docker<br>  - Automation with Ansible<br>  - Infrastructure As Code with Terraform<br>  - CI/CD with GitHub Actions<br>  - Network basics (Architecture, Security, OSI layers, IPv4/IPv6, protocols...)<br>  - Linux Systems<br>  - Orchestration with Kubernetes & Docker Swarm<br>  - Cloud Providers (AWS, GCP, AZURE...)<br>  - Python<br><br>## Background<br><br>During my professional career, I had the opportunity to work in sales, at hotel front desks, and even in the industrial sector. After reflecting on my professional path, I decided to complete a skills assessment to help me discover what I truly wanted in life. It turned out that working in IT was the perfect fit for me.<br><br>That's why I chose to enroll in a full-stack web developer program at Wild Code School, where I had the chance to learn technologies such as JavaScript, HTML, CSS, MySQL, React, and Node.js (Express.js). Following this training, I completed a three-month internship at OP-RATE, where I was introduced to the world of DevOps. I then spent nearly two years working as a Power Platform developer, but DevOps always remained in the back of my mind, and my interest in this field continued to grow. This is what led me to enroll in the DevOps System Administrator course at O'Clock and obtaining my degree the same year.<br><br>## Realizations<br><br>React Resume: https://www.guillaumelequin.fr<br>Portfolio: https://portfolio.guillaumelequin.fr<br><br>### My Works I have collaborated in: <br><br>Project 1: "Restodyssey" https://guigan713.github.io/restOdyssey/<br>Game Jam : "ChickenNuggets" https://simmer.io/@DanForstesque/chicken-nuggets<br>Project 2: "Wildify" https://wildify.netlify.app/<br><br>### My personal works:<br><br>Sneaker Portfolio: https://sneakerportfolio.eu<br>dashboard: https://dashboard-guigan.netlify.app/<br>hulu clone: https://hulu-2-coral-three.vercel.app/<br>cv react: https://www.guillaumelequin.fr<br><br><br>
+# Guillaume Lequin (Guigan)
+
+## About Me
+
+My name is **Guillaume Lequin** (aka *Guigan*).  
+I am a **DevOps Engineer**, trained at **O'Clock School**, with a background in **web development, infrastructure automation, and cloud environments**.
+
+I focus on designing, automating, and maintaining **reliable and scalable infrastructures**, with a strong interest in DevOps best practices such as Infrastructure as Code, CI/CD, containerization, and monitoring.
+
+---
+
+## DevOps Skills & Technologies
+
+- Containerization and orchestration: Docker, Docker Swarm, Kubernetes  
+- Infrastructure as Code: Terraform  
+- Configuration management and automation: Ansible  
+- CI/CD pipelines: GitHub Actions, GitLab CI  
+- Monitoring and observability: Prometheus, Grafana  
+- Cloud platforms: AWS (primary), GCP, Azure  
+- Web servers and reverse proxies: Nginx, Apache  
+- Databases: MySQL, PostgreSQL, MongoDB  
+- Linux systems and networking fundamentals  
+- Scripting: Bash, Python  
+- Web development background: Node.js, Express, React  
+
+---
+
+## Professional Experience
+
+### DevOps Intern – Makara Media
+
+Following the **DevOps System Administrator training at O'Clock**, I completed an internship at **Makara Media**, where I worked on real-world DevOps and infrastructure topics, including:
+
+- Deployment and maintenance of containerized applications  
+- Automation of infrastructure and system configuration  
+- Participation in CI/CD pipelines  
+- Basic monitoring and reliability practices  
+- Collaboration with technical teams in a production-oriented environment  
+
+This internship allowed me to apply DevOps concepts in real conditions and strengthened my interest in automation, reliability, and infrastructure management.
+
+---
+
+## Background
+
+I initially trained as a **Full-Stack Web Developer** at **Wild Code School**, where I worked with JavaScript, HTML, CSS, React, Node.js (Express), and SQL databases.
+
+After a first internship at **OP-RATE**, where I discovered DevOps practices, I worked for nearly two years as a **Power Platform Developer**. During this time, my interest in DevOps continued to grow, which led me to enroll in the **DevOps System Administrator program at O'Clock**, which I successfully completed with a degree obtained.
+
+This mixed background allows me to understand both development and infrastructure challenges and to communicate effectively with different technical profiles.
+
+---
+
+## Projects
+
+### Team Projects
+
+- Restodyssey – Web application project - https://guigan713.github.io/restOdyssey/
+- Wildify – Frontend application - https://wildify.netlify.app/
+- Chicken Nuggets – Game Jam project - https://simmer.io/@DanForstesque/chicken-nuggets  
+
+### Personal Projects
+
+- Sneaker Portfolio - https://sneakerportfolio.eu
+- Dev Dashboard - https://dashboard-guigan.netlify.app/
+- Hulu Clone - https://hulu-2-coral-three.vercel.app/ 
+- React CV - https://www.guillaumelequin.fr
+
+Most of my recent work focuses on **automation, deployment, CI/CD, and infrastructure design** rather than frontend development alone.
+
+---
+
+## Online Presence
+
+- Resume: https://www.guillaumelequin.fr  
+- Portfolio: https://portfolio.guillaumelequin.fr  
+- LinkedIn: https://www.linkedin.com/in/guillaume-lequin/  
+
+---
+
+## What I'm Looking For
+
+I am currently looking for a **DevOps / Cloud Engineer position**, where I can continue to grow, contribute to real-world infrastructures, and improve deployment and automation processes.
+
+I am particularly interested in environments that value **automation, reliability, collaboration, and continuous improvement**.
 
 
 ## 🌐 Socials:
